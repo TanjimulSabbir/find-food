@@ -11,6 +11,7 @@ searchFood = () => {
 }
 const displaySearchResult = data => {
     searchDiv = document.getElementById("search-result")
+    searchDiv.textContent = '';
     data.forEach(meal => {
         console.log(meal)
         const div = document.createElement("div")
@@ -31,6 +32,7 @@ const displaySearchResult = data => {
         searchDiv.appendChild(div)
     });
     const suggestDiv = document.getElementById('suggest-div')
+    suggestDiv.textContent = '';
     const p = document.createElement('p')
     p.innerHTML = ` <ul class='bg-success'>
         <h3>Search Suggest</h3>
