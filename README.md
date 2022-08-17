@@ -1,5 +1,5 @@
 # Find-Food
-Have you find food? Haven't geting find your satisfactory food. Okay, No problem.🙅‍♂️ Just search here on your food keyword. You will get ser a huge number of food. 
+Have you find food? Haven't geting find your satisfactory food. Okay, No problem.🙅‍♂️ Just search here on your food keyword. You will find here a huge number of food. 
 
 If you don’t know the food name, just search by Alphabet from one by one.I think you will get find your desired food. Are you happy? I think you will get find your favorite food. 
 
